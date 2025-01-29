@@ -46,6 +46,6 @@
 - Link al repositorio de GitHub con el proyecto (sin `node_modules`).
 - Archivo `.env` para poder correr el proyecto.
 
-## COMISION 70310
-## ALUMNO: ALEXIS RIVERA
-## PROF: JAIME NAHUEL RAMIREZ LORCA
+#### COMISION 70310
+#### ALUMNO: ALEXIS RIVERA
+#### PROF: JAIME NAHUEL RAMIREZ LORCA
